@@ -14,18 +14,18 @@
 		h1{
 		    font-size:30px;
 		}
-        #primer{
-            position: absolute;
-            top: 12%;
-            left:25%;
-            width:50%;
-            background:rgba(255,255,255,0.8);
-            text-align:center;
-            margin:auto;
-            z-index:3;
-            padding:10px;
-            
-        }
+		#primer{
+		    position: absolute;
+		    top: 12%;
+		    left:25%;
+		    width:50%;
+		    background:rgba(255,255,255,0.8);
+		    text-align:center;
+		    margin:auto;
+		    z-index:3;
+		    padding:10px;
+
+		}
 		#container, #loaded {
 			color: red;
 			font-weight: 700;
@@ -95,7 +95,6 @@
 		    right: 0px;
 		    z-index:2;
 		}
-
 	</style>
 </head>
 <body>
