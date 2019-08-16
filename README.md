@@ -1,5 +1,5 @@
 # thesis_presentation
-A bunch of scripts related to 
+Scripts to control my thesis presentation, used on [524.se](http://524.se).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxNjczOTQ0XX0=
+eyJoaXN0b3J5IjpbMTMwMTczOTkwNV19
 -->
