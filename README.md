@@ -1,12 +1,11 @@
 # thesis_presentation
 Scripts to control my thesis presentation, used on [524.se](http://524.se).
 
+## index.php
+Contains the HTML, CSS and JavaScript used to structure the page, specify its appearance and control the video control.
 ## frames.txt
 Contains the frame numbers (between first and second **Start...**) where the video should pause "in between slides".
-## repeat.txt
-Contains the indices (based on *frames.txt*) where the video shouldn't stop but should repeat from its previous pause position.
-*Example*: If `frames[16] == 168` and `frames[17] == 172`, and *repeat.txt* includes `17`,  the video would pause at frame 168, then resume (upon user interaction), then play frames `169, 170, 171, 172, 169, 170, 171, 172, 169, 170, 171, 172, 169, 170, ...` in a repeating loop until the user interacts.
-## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjEyMDY3NzUsMTMwMTczOTkwNV19
+eyJoaXN0b3J5IjpbLTc2NDA0MjU4MiwtMTcyMTIwNjc3NSwxMz
+AxNzM5OTA1XX0=
 -->
